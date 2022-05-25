@@ -1,0 +1,17 @@
+body {
+	padding: 0;
+	margin: 0;
+	overflow: hidden;
+	background-color: black;
+}
+
+canvas {
+	background-color: black;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
